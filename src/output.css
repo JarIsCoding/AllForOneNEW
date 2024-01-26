@@ -952,6 +952,26 @@ video {
   padding-top: 2rem;
 }
 
+.pt-3 {
+  padding-top: 0.75rem;
+}
+
+.pt-9 {
+  padding-top: 2.25rem;
+}
+
+.pb-6 {
+  padding-bottom: 1.5rem;
+}
+
+.pb-64 {
+  padding-bottom: 16rem;
+}
+
+.pb-36 {
+  padding-bottom: 9rem;
+}
+
 .text-left {
   text-align: left;
 }
